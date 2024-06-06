@@ -18,10 +18,10 @@ gem "devise", "~> 4.0"
 gem "omniauth-github", "~> 2.0"
 
 # Front-end
-gem "cssbundling-rails"
+# gem "cssbundling-rails"
 # gem "jsbundling-rails"
 gem "sprockets-rails", "~> 3.4"
-gem "tailwindcss-rails"
+# gem "tailwindcss-rails"
 
 # Business-specific fx
 gem "parser", "~> 3.0"
